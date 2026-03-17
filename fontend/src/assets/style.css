@@ -1,0 +1,15 @@
+ 
+body{
+    background:#f5f6f7;
+}
+
+.page-title{
+    margin-top:60px;
+    text-align:center;
+    font-weight:300;
+    margin-bottom:20px;
+}
+.card-header{
+    background:#f1f1f1;
+    font-weight:500;
+}
